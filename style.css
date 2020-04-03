@@ -28,7 +28,7 @@ body {
 /* Side navigation links */
 .sidenav a {
   background-color: #ffffff;
-  color: black;
+  color: #2E4085;
   padding: 16px;
   padding-left: 20px;
   text-decoration: none;
@@ -37,8 +37,8 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-  background-color: #EE6F44;
-  color: white;
+  background-color: #F3BCA9;
+  color: black;
 }
 
 

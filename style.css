@@ -37,7 +37,7 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-  background-color: #e6b3ff;
+  background-color: #EE6F44;
   color: white;
 }
 
@@ -85,10 +85,10 @@ h3 {
 }
 
 a {
-    color: blue;
+    color: #2E4085;
 }
 a:hover {
-    color: #cc66ff;
+    color: #5AC494;
 }
 
 p {

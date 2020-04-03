@@ -69,19 +69,22 @@ body {
 }
 
 h1 {text-align: left;
-  font-size: 30px
+  font-size: 30px;
+  color: #2E4085
 
 }
 
 
 h2 {
   text-align: left;
-  font-size: 24px
+  font-size: 24px;
+  color: #2E4085
 }
 
 h3 {
   text-align: left;
-  font-size: 20px
+  font-size: 20px;
+  color: #2E4085
 }
 
 a {
@@ -93,7 +96,8 @@ a:hover {
 
 p {
   font-family: "Times New Roman", Times, serif;
-  line-height: 1.6
+  line-height: 1.6;
+  color: #2E4085
 }
 
 p.footnote {
